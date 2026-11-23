@@ -9,6 +9,10 @@
 - 🔐 **Governança de IA**: identidade verificada, níveis de acesso, defesa contra prompt injection, aprovação humana
 - 🧠 **Modelos próprios em PyTorch**: 95,4% de acerto com ajuste fino, sem GPU
 
+### Projetos
+- [arquitetura-agentes-ia](https://github.com/menero20/arquitetura-agentes-ia) — como projeto e opero agentes de IA em produção
+- [ia-eng](https://github.com/menero20/ia-eng) — modelos de visão computacional treinados localmente em PyTorch
+
 ### Stack
 Claude · OpenAI · MCP · Node.js · Python · PyTorch · Puppeteer · Supabase/PostgreSQL · Cloudflare · pm2
 
