@@ -11,6 +11,8 @@
 
 ### Projetos
 - [arquitetura-agentes-ia](https://github.com/menero20/arquitetura-agentes-ia) — como projeto e opero agentes de IA em produção
+- [mcp-oficina-demo](https://github.com/menero20/mcp-oficina-demo) — servidor MCP com permissões, validação, prévia antes de gravar e auditoria
+- [transcrever-audio-local](https://github.com/menero20/transcrever-audio-local) — transcrição de áudio local com Whisper, sem API
 - [ia-eng](https://github.com/menero20/ia-eng) — modelos de visão computacional treinados localmente em PyTorch
 
 ### Stack
